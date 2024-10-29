@@ -1,0 +1,30 @@
+{
+  "name": "statemanager",
+  "version": "0.0.1",
+  "description": "StateManager",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "npx tsc --watch"
+  },
+  "dependencies": {
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunpocode/stateManager.git"
+  },
+  "keywords": [
+    "state",
+    "manager",
+    "@shunpocode"
+  ],
+  "author": "@shunpocode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shunpocode/stateManager/issues"
+  },
+  "homepage": "https://github.com/shunpocode/stateManager#readme"
+}
