@@ -36,7 +36,3 @@ document.querySelector("#m").addEventListener("click", () => {
 document.querySelector("input").addEventListener("input", (e) => {
   Store.name.setName(e.target.value);
 });
-
-setInterval(function () {
-  Store.counter.increment();
-}, 1000);
